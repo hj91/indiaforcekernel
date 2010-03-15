@@ -2,4 +2,13 @@
 
 = Introduction =
 
+India Force Linux now has got a shining new 2.6.31 GNU/Linux kernel optimized for i386 and beyond platforms
+
+Get the latest version -
+
+    * . Hardened Linux for your box http://indiaforcekernel.googlecode.com/files/linux-image-2.6.32.9-grsecindiaforce1.1_1.1_i386.deb 
+
+    * . A zippy and fast kernel that gives wings to your machine..fly in the air...! http://indiaforcekernel.googlecode.com/files/linux-image-2.6.31-bfs311indiaforce1.1_indiaforce1.2_i386.deb 
+
+
 Check this page - [http://code.google.com/p/indiaforcekernel/]
